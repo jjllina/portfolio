@@ -1,0 +1,64 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: black !important;
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+nav {
+  background-color: black;
+  position: fixed;
+  z-index: 20;
+}
+
+.navbar {
+  padding-left: 75px !important;
+  padding-right: 75px !important;
+}
+
+.nav-link {
+  color: white;
+  font-size: 13px;
+}
+
+.nav-link:hover {
+  color: #dcdcdc;
+}
+
+.navHome {
+  font-size: 22px !important;
+
+}
+
+.homeBody {
+  padding-left: 70px !important;
+  padding-right: 70px !important;
+}
+
+.intro {
+  font-size: 100px;
+  color: #909090;
+}
+
+.introSecond {
+  font-size: 100px;
+  color: white;
+}
+
+.motto {
+  font-family: 'Six Caps', sans-serif;
+  font-size: 125px;
+  white-space: wrap;
+}
+
+.motto-2 {
+  font-family: 'Six Caps', sans-serif;
+  font-size: 80px;
+  white-space: wrap;
+  color: #818589;
+}
